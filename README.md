@@ -41,7 +41,3 @@
 <sub>Profile template by <a href="https://github.com/GubreleySanskar">@GubreleySanskar</a></sub>
 
 </div>
-
-## 🐍 My GitHub Contribution Snake
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/bhumikagwad-pixel/bhumikagwad-pixel/output/github-contribution-grid-snake.svg)
