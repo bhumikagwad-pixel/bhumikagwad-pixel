@@ -20,7 +20,6 @@ uses: Platane/snk@v3
 with:
 github_user_name: bhumikagwad-pixel
 outputs: dist/github-contribution-grid-snake.svg
-
 - name: Push snake to output branch
   uses: crazy-max/ghaction-github-pages@v4
    with:
