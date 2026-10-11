@@ -1,0 +1,28 @@
+{
+  "github_username": "bhumikagwad-pixel",
+  "handle": "bhumika",
+  "name": "Bhumika Kagwad",
+  "tagline": "CSE Student · Software Developer",
+
+  "now": { "role": "Final-year CSE student", "where": "@ Sharnbasva University, Kalaburagi" },
+  "creating": "Software applications and AI/ML projects",
+  "stack": ["Python", "Java", "C++", "JavaScript", "SQL", "Machine Learning", "Git", "GitHub"],
+  "highlights": [
+    "Software development and problem-solving",
+    "AI/ML projects and intelligent applications",
+    "Coding solutions and open-source contributions"
+  ],
+
+  "headline": "Final-year CSE Student @ Sharnbasva University · Software Developer",
+  "links": {
+    "email": "bhumikagwad03@gmail.com",
+    "instagram": "",
+    "linkedin": "http://linkedin.com/in/bhumika-kagwad-2aaa76397",
+    "x": "",
+    "youtube": "",
+    "website": ""
+  },
+
+  "heatmap": { "total": 50, "seed": 29, "end_date": "" },
+  "portrait": { "crop": "" }
+}
