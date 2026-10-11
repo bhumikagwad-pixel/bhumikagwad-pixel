@@ -4,7 +4,7 @@
 
 <h3><code>~/bhumika $ ./contributions.sh</code></h3>
 
-<img src="./assets/contrib-heatmap.svg" width="860" alt="Contribution graph"/>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution graph"/>
 
 <br><br>
 
@@ -12,8 +12,8 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="./assets/ascii-portrait.svg" width="370" alt="ASCII portrait of Bhumika Kagwad"/></td>
-    <td valign="top"><img src="./assets/info-card.svg" width="490" alt="Bhumika Kagwad · CSE Student · Software Developer"/></td>
+    <td valign="top"><img src="./ascii-portrait.svg" width="370" alt="ASCII portrait of Bhumika Kagwad"/></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Bhumika Kagwad · CSE Student · Software Developer"/></td>
   </tr>
 </table>
 
