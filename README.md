@@ -21,23 +21,11 @@
 
 <h3><code>~/bhumika $ ./snake --eat contributions</code></h3>
 
-```html
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/bhumikagwad-pixel/bhumikagwad-pixel/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/bhumikagwad-pixel/bhumikagwad-pixel/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="860"
-    alt="Snake eating GitHub contributions"
-    src="https://raw.githubusercontent.com/bhumikagwad-pixel/bhumikagwad-pixel/output/github-contribution-grid-snake.svg"
-  />
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhumikagwad-pixel/bhumikagwad-pixel/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhumikagwad-pixel/bhumikagwad-pixel/output/github-contribution-grid-snake.svg" />
+  <img width="860" alt="Snake eating GitHub contributions" src="https://raw.githubusercontent.com/bhumikagwad-pixel/bhumikagwad-pixel/output/github-contribution-grid-snake.svg" />
 </picture>
-```
 
 <br><br>
 
