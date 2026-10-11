@@ -22,9 +22,9 @@
 <h3><code>Contribution Snake</code></h3>
 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhumikagwad-pixel/bhumikagwad-pixel/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhumikagwad-pixel/bhumikagwad-pixel/output/github-contribution-grid-snake.svg" />
-  <img width="860" alt="Snake eating GitHub contributions" src="https://raw.githubusercontent.com/bhumikagwad-pixel/bhumikagwad-pixel/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhumikagwad-pixel/bhumikagwad-pixel/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhumikagwad-pixel/bhumikagwad-pixel/output/github-contribution-grid-snake.svg"/>
+  <img width="860" alt="Snake eating GitHub contributions" src="https://raw.githubusercontent.com/bhumikagwad-pixel/bhumikagwad-pixel/output/github-contribution-grid-snake.svg"/>
  </picture>
 
 <br><br>
